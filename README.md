@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="[./assets/pixel-girl.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71bd649b-2395-4e2a-bbda-e3e4ae135510/d54cti9-23001d21-4d89-4372-b379-73fa5af33535.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxYmQ2NDliLTIzOTUtNGUyYS1iYmRhLWUzZTRhZTEzNTUxMFwvZDU0Y3RpOS0yMzAwMWQyMS00ZDg5LTQzNzItYjM3OS03M2ZhNWFmMzM1MzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3N6IW7nIneH3N3a81CRBT-PfVlJBFu8RAxw4P_9VmD4)" width="280">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYxazg3amRiYjhlZmMyd2oyczV4MXZveDd2NTdlaHdwZDFwNzdiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeFCHkul4W2qglq/giphy.gif" width="280">
 
 <br><br>
 
