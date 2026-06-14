@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYxazg3amRiYjhlZmMyd2oyczV4MXZveDd2NTdlaHdwZDFwNzdiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeFCHkul4W2qglq/giphy.gif" width="280">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZveHVtZTdtM3MyM2JvanRwaTJiMjVneWszY3hlZGtnM3NtdXBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31ZmU8h8OcfrGOZ5Ic/giphy.gif" width="280">
 
 <h3 align="center">
   Patricia Puaso
