@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Woman in Tech • Web/Mobile Developer • Creative Problem Solver
+  Woman in Tech • Software Engineer • Creative Problem Solver
 </p>
 
 <br><br>
